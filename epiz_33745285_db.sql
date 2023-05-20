@@ -20,7 +20,7 @@ CREATE TABLE `registros`(
 INSERT INTO `registros` (`id_registro`,`no_cuenta`,`nombre_usuario`,`email`,`club_deportivo`,`password`) VALUES (1,425603001,'Juan Perez Garcia','juan@hotmail.com','Football Soccer',123456);
 INSERT INTO `registros` (`id_registro`,`no_cuenta`,`nombre_usuario`,`email`,`club_deportivo`,`password`) VALUES (2,425603002,'Pedro Suastes Albaca','pedro@hotmail.com','Basketball',123456);
 INSERT INTO `registros` (`id_registro`,`no_cuenta`,`nombre_usuario`,`email`,`club_deportivo`,`password`) VALUES (3,425603003,'Alexis Rosales Pineda','alexis@hotmail.com','Volleyball',123456);
-INSERT INTO `registros` (`id_registro`,`no_cuenta`,`nombre_usuario`,`email`,`club_deportivo`,`password`) VALUES (4,1425603004,'Karla Chavez Chagoya','karla@hotmail.com','Football Americano',123456);
+INSERT INTO `registros` (`id_registro`,`no_cuenta`,`nombre_usuario`,`email`,`club_deportivo`,`password`) VALUES (4,425603004,'Karla Chavez Chagoya','karla@hotmail.com','Football Americano',123456);
 INSERT INTO `registros` (`id_registro`,`no_cuenta`,`nombre_usuario`,`email`,`club_deportivo`,`password`) VALUES (5,425603005,'Pedro Paramo Paracetamol','peter@hotmail.com','Atletismo',123456);
 INSERT INTO `registros` (`id_registro`,`no_cuenta`,`nombre_usuario`,`email`,`club_deportivo`,`password`) VALUES (6,425603035,'Jimena Urrutia Alcantar','Jimena@hotmail.com','Natacion',123456);
 INSERT INTO `registros` (`id_registro`,`no_cuenta`,`nombre_usuario`,`email`,`club_deportivo`,`password`) VALUES (7,425603006,'Eduardo Cruz Sanchez','Eduardo@hotmail.com','Rugby',123456);
