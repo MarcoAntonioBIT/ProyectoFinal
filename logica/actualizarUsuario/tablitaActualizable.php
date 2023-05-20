@@ -65,7 +65,7 @@
             ?>
 
             <div class="lime-text" style="text-align:center;">
-                <a href="../../principal.php"><button class="btn waves-effect waves-light">Regresar al menú
+                <a href="../../Principal.php"><button class="btn waves-effect waves-light">Regresar al menú
                         principal</button></a>
                 <h5 style="text-align:left;">Por favor de click en el botón "EDITAR" que se encuentra a un lado del
                     usuario
